@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Olá, me chamo Noah Matheus Jorge Piovesan, tenho 25 anos e sou natural do Paraná. Concluí a Graduação em Sistemas de Informação em Paranavaí, Universidade Paranaense - PR (2017-2020). Atualmente, estou Exerce o cargo de Desenvolvedor de Software e Analista de Sistemas pela SAA Software na cidade de Primavera do Leste - MT. E sou encantando por tecnologia!
+Olá, me chamo Noah Matheus Jorge Piovesan, tenho 25 anos e sou natural do Paraná. Concluí a Graduação em Sistemas de Informação em Paranavaí, Universidade Paranaense - PR (2017-2020). Atualmente, estou Exerce o cargo de Desenvolvedor de Software e Analista de Sistemas pela SAA Software na cidade de Primavera do Leste - MT. Sou encantando por tecnologia e inovação!
 <p align="left">
     <a href="https://github.com/noahmatheus?tab=repositories&sort=stargazers">
         <img 
@@ -122,11 +122,11 @@ Olá, me chamo Noah Matheus Jorge Piovesan, tenho 25 anos e sou natural do Paran
 />
 <img 
     align="left" 
-    alt="latex" 
-    title="latex"
+    alt="flutter" 
+    title="flutter"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
 <img 
     align="left" 
